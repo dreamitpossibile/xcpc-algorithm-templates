@@ -1,14 +1,22 @@
 ## 简介
 在本科期间，本人获得了XCPC金奖共计8枚，包括EC Final金奖和CCPC Final金奖，区域赛最好成绩为2020CCPC长春站的季军。
 <img src="https://github.com/sunkafei/sunkafei.github.io/blob/main/cv/images/xcpc-gold-medals.png"> </img>
-此外还获得过CCSP 金奖，CCCC 一等奖，华为嵌入式软件大赛算法组 冠军，华为算法大赛高校组 冠军，昇腾AI原生创新算子挑战赛 冠军，<a href="https://codeforces.com/contest/1885/standings">ICPC 2023 Online Challenge powered by Huawei</a>  一等奖。
-<img src="https://github.com/sunkafei/sunkafei.github.io/blob/main/cv/images/other-certificates.png"> </img>
 
 目前本人已退役，并将自己的算法模板整理如下，重点是数据结构和字符串，涉及的数论和计算几何较少（队友负责）。
+**本算法库持续更新中... 如果你有好的算法模板想加入进来，或者觉得此算法库有bug，欢迎提出pull requests。**
 
-**本算法库持续更新中...**
+此外我还获得过CCSP 金奖，CCCC 一等奖，华为软件精英挑战赛 冠军，华为嵌入式软件大赛算法组 冠军，华为算法大赛高校组 冠军，昇腾AI原生创新算子挑战赛 冠军，<a href="https://codeforces.com/contest/1885/standings">ICPC 2023 Online Challenge powered by Huawei</a>  一等奖。
+<img src="https://github.com/sunkafei/sunkafei.github.io/blob/main/cv/images/other-certificates.png"> </img>
 
-**如果你有好的算法模板想加入进来，或者觉得此算法库有bug，欢迎提出pull requests。**
+对于想参加这些开放式算法竞赛的同学可以参考一下我的题解和仓库：
+- 2025华为软件精英挑战赛 <a href="https://zhuanlan.zhihu.com/p/1898417302979981487">题解</a> <a href="https://github.com/sunkafei/huawei-software-challenge2025">仓库</a>
+- 2024华为嵌入式软件大赛算法组 <a href="https://zhuanlan.zhihu.com/p/712175821">题解</a> <a href="https://github.com/sunkafei/huawei2024">仓库</a>
+- 2023华为嵌入式软件大赛算法组 <a href="https://github.com/sunkafei/huawei2023">题解&仓库</a>
+- 昇腾AI原生创新算子挑战赛S2 <a href="https://zhuanlan.zhihu.com/p/721387485">题解</a> <a href="https://github.com/sunkafei/ascend-operator-challenge2">仓库</a>
+- 昇腾AI原生创新算子挑战赛S1 <a href="https://zhuanlan.zhihu.com/p/701340321">题解</a> <a href="https://github.com/sunkafei/ascend-operator-challenge">仓库</a>
+- ICPC 2023 Online Challenge powered by Huawei <a href="https://github.com/sunkafei/huawei-codeforces">仓库</a>
+
+此外我还会在<a href="https://github.com/sunkafei/huawei-codeforces">知乎@孙咖啡</a>上定期更新一些C++性能压榨和C++新特性相关的文章。
 
 ## 目录
 - 图论
